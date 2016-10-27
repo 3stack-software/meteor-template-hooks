@@ -18,4 +18,6 @@ TemplateHooks(Template.myTemplate, {
 Never suffer from:
 ```js
 Template.myTemplate.craeted = function(){}
-``
+```
+
+
